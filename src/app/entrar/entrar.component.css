@@ -1,0 +1,9 @@
+#img-bg{
+  background-image: url('https://cdn-icons-png.flaticon.com/512/3534/3534138.png');
+
+  min-height: 695px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
